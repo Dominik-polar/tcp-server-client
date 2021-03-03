@@ -26,6 +26,8 @@ To run this project, download source codes and run both programs on Linux.
 
 Example use:
 
+p test - downloads a file from server named test
+
 ![TCP](https://user-images.githubusercontent.com/73591535/109808339-451c8d80-7c27-11eb-87cc-c826db3ed0a5.png)
 
 
